@@ -1,0 +1,2 @@
+We learned that ML deployment is about environment consistency. 
+We fixed library version bugs (Flask/Werkzeug) and solved the KeyError: 0 by training the model directly inside the Docker container to ensure perfect compatibility.
